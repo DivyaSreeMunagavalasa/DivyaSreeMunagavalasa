@@ -3,8 +3,6 @@
 
 ## Welcome to my technical world!: <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasree1202" alt="divyasree1202" /></a> </p>
-
 ## About me: 🚀
 💻 A passionate learner with innovative insights✨<br/>
 
