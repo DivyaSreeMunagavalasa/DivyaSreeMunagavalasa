@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Sree</h1>
 <h3 align="center">Associate Software Engineer @Center of Data for Public Good (CDPG)</h3>
 
-## You can catch me up here! <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
+## Catch up with me up here! <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
 
 ## About me: 🚀
 💻 A passionate learner with innovative insights✨<br/>
