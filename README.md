@@ -6,7 +6,7 @@
 ## About me: 🚀
 💻 A passionate learner with innovative insights✨<br/>
 
-- 🔭 I’m currently working on **GDI project**
+- 🔭 I’m currently working on **GDI project** and **DAP project**
 
 - 💬 Ask me about **Java**
 
